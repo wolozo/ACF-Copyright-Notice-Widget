@@ -42,7 +42,7 @@ Of course, if you wish to install and update the plugin manually, you are welcom
 ### Installing with GitHub Updater
 1. First make sure you have [GitHub Updater](https://github.com/afragen/github-updater/wiki/Installation) itself installed.
 2. In the WordPress Dashboard go to *Settings > GitHub Updater > Install Plugin*.
-3. Enter `efc/test-readme-markdown` as the Plugin URI and make sure the Remote Repository Host is `Bitbucket`. Then click the "Install Plugin".
+3. Enter `https://github.com/wolozo/ACF-Copyright-Notice-Widget` as the Plugin URI and make sure the Remote Repository Host is `Github`. Then click the "Install Plugin".
 4. Activate the plugin after it has installed.
 
 ## Notes
