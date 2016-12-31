@@ -5,7 +5,7 @@
  * Plugin URI:        https://github.com/wolozo/ACF-Copyright-Notice-Widget
  * GitHub Plugin URI: https://github.com/wolozo/ACF-Copyright-Notice-Widget
  * Description:       ACF Pro Widget to add various segments of a Copyright Notice.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Wolozo
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       copyright-notice-widget
